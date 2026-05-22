@@ -20,4 +20,13 @@ Place the `.uasset` file into your CARLA UE4 project `Content` directory and reo
 ## Citation
 
 If you find this project useful, please cite our paper. 
-**A Practical CARLA-Based Dust Simulation Framework for LiDAR Perception in Open-Pit Mines**
+
+```bibtex
+@article{zhao2026practical,
+  author  = {Zhao, Ziyu and Bi, Lin},
+  title   = {A Practical CARLA-Based Dust Simulation Framework for LiDAR Perception in Open-Pit Mines},
+  journal = {Measurement Science and Technology},
+  year    = {2026},
+  doi     = {10.1088/1361-6501/ae70ce},
+  url     = {https://doi.org/10.1088/1361-6501/ae70ce}
+}
