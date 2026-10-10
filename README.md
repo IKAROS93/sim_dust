@@ -17,6 +17,10 @@ A simple UE4 blueprint for LiDAR-perceivable dust simulation in CARLA.
 
 Place the `.uasset` file into your CARLA UE4 project `Content` directory and reopen the project.
 
+## Sensor Attachment
+
+We provide a new sensor attachment method using a dedicated mount instead of a pedestrian actor. Please see [sensormount](./sensormount/README.md) for details and usage instructions.
+
 ## Citation
 
 If you find this project useful, please cite our paper. 
