@@ -2,7 +2,6 @@
 The UE4 blueprint will be released publicly after the associated paper has completed the peer-review process.
 # Simulated Dust Blueprint for CARLA
 
-A simple UE4 blueprint for LiDAR-perceivable dust simulation in CARLA.
 
 ## Requirements
 
