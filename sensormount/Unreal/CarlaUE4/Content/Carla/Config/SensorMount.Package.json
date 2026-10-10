@@ -1,0 +1,9 @@
+{
+  "props": [
+    {
+      "name": "SensorMount",
+      "path": "/Game/Carla/Static/SM_sensormount.SM_sensormount",
+      "size": "Tiny"
+    }
+  ]
+}
